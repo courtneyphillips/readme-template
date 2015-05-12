@@ -16,7 +16,7 @@ This cool `Class#method` does x, y, z.
 
   ``here's an example of my code.to_s()``
   
-  ## Links
+## Links
 
   - Heroku: www.samplelinkhere.com
   - GitHub: www.samplelinkhere.com
