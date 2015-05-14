@@ -4,7 +4,7 @@
 
 ## Synopsis
 
-[Project Nmae] built by [Courtney Phillips](https://github.com/courtneymaepdx).  Crafted as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
+PROJECT NAME built by [Courtney Phillips](https://github.com/courtneymaepdx).  Crafted as part of the Spring 2015 Ruby course curriculum at [Epicodus](https://www.epicodus.com/).
 
 ## Motivation
 
@@ -21,15 +21,11 @@ This cool `Class#method` does x, y, z.
   - Heroku: www.samplelinkhere.com
   - GitHub: www.samplelinkhere.com
 
-## Contribute
-
-  - Issue Tracker: https://github.com/courtneymaepdx/projectname/issues
-  - Source Code: https://github.com/courtneymaepdx/projectname
-  - Pull Requests: https://github.com/courtneymaepdx/projectname/pulls
-
 ## Installation
 
-Word Frequency uses the following gems:
+#### Gems
+
+PROJECT NAME uses the following gems:
 
   - Capybara
   - Sinatra
@@ -39,15 +35,29 @@ Word Frequency uses the following gems:
   - etcetera
   - etcetera
 
-To install, run `gem install bundle` in the command line. Or whatever else you have to do. 
+To install, run `$ gem install bundle` in the command line. Or whatever else you have to do. 
+
+#### Databases
+
+Additionally, PROJECT NAME utilizes databases via ActiveRecord. Should you clone this repository, simply do the following to establish and prepare similar databases for your own use:
+
+1. Launch the Postgres server by running `$ postgres` in the terminal.
+2. Navigate to the project folder and run `$ rake db:create`.
+3. Run `$ rake db:migrate` to migrate the changes detailed in db into the database.
 
 ## Tests
 
-Both method and integration tests for Word Frequency utilize the RSpec. Simply run `gem install rspec`, if it's not already installed, and then the command `rspec`, while located in the project's file.
+Both method and integration tests for PROJECT NAME utilize the RSpec. Simply run `$ gem install rspec`, if it's not already installed, and then the command `rspec`, while located in the project's file.
+
+## Contribute
+
+  - Issue Tracker: https://github.com/courtneymaepdx/projectname/issues
+  - Source Code: https://github.com/courtneymaepdx/projectname
+  - Pull Requests: https://github.com/courtneymaepdx/projectname/pulls
 
 ## Contact
 
-Questions, concerns, fan-mail, or other grievances can be directed to Courtney at <courtney.mae.phillips@gmail.com>.
+Questions, grievances and hellos can be directed to Courtney at <courtney.mae.phillips@gmail.com>.
 
 ## License
 
