@@ -51,9 +51,16 @@ Both method and integration tests for PROJECT NAME utilize the RSpec. Simply run
 
 ## Contribute
 
-  - Issue Tracker: https://github.com/courtneymaepdx/projectname/issues
-  - Source Code: https://github.com/courtneymaepdx/projectname
-  - Pull Requests: https://github.com/courtneymaepdx/projectname/pulls
+  - Issue Tracker: https://github.com/courtneymaepdx/PROJECTNAME/issues
+  - Source Code: https://github.com/courtneymaepdx/PROJECTNAME
+  - Pull Requests: https://github.com/courtneymaepdx/PROJECTNAME/pulls
+  
+## Development Roadmap
+
+PROJECT NAME is still a work in progress. The following are features, fixes and tweaks to be implemented as the project develops. Any additional suggestions can be contributed via the Issue Tracker above.
+
+  - Blah
+  -
 
 ## Contact
 
